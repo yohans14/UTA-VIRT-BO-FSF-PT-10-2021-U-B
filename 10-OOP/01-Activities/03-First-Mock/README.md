@@ -30,7 +30,7 @@ To reproduce the problem, follow these steps:
 
 The following image demonstrates the web application's appearance and functionality:
 
-![The console indicates that the test suites and tests have passed, with no messages or errors displayed.](./images/image.png)
+![The console indicates that the test suites and tests have passed, with no messages or errors displayed.](./images/image.png)w
 
 ---
 
